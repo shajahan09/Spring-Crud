@@ -1,0 +1,3 @@
+com\parvez\entity\Product.class
+com\parvez\Repository\productRepo.class
+com\parvez\controller\ProductController.class
